@@ -1,0 +1,66 @@
+
+    <resources>
+        <string name="app_name">Fruit Vegetables And Food</string>
+        \\layout
+        <string name="Judul">Fruits and Vegetables and Food</string>
+        <string name="pilih">(Select image to open gallery)</string>
+        <string name="klik2">click profile to view author bio</string>
+        <string name="daftar">Fruit Breed List</string>
+        <string name="go_back">Back</string>
+        <string name="Buah">Fruit</string>
+        <string name="Sayuran">Vegetables</string>
+        <string name="Makanan">Food</string>
+        <string name="kucing_list_title">Fruit Breed List</string>
+        <string name="anjing_list_title">Vegetable breed List </string>
+        <string name="buaya_list_title">Food Race List</string>
+        <string name="biodata">Creator Bio</string>
+        <string name="nama">name</string>
+        <string name="kelas">class</string>
+        <string name="prodi">prodi</string>
+        <string name="hobby">watch indian tutorial</string>
+
+        // fruit data
+        <string name="naga_nama">Dragon Fruit</string>
+        <string name="naga_deskripsi">Good quality leaf vegetables are characterized by intact leaves, no rot and no holes from pest bites</string>
+        <string name="mangga_nama">Mango </string>
+        <string name="mangga_deskripsi">Mango or pempelam is the name of a type of fruit, as well as the name of the tree</string>
+        <string name="melon_nama">Birmani</string>
+        <string name="melon_deskripsi">Melon is the name of both the fruit and the plant that produces it, which belongs to the pumpkin family or Cucurbitaceae</string>
+        <string name="rambutan_nama"> Rambutan Fruit</string>
+        <string name="rambutan_deskripsi">Rambutan is a tropical plant belonging to the lerak-lerakan tribe or Sapindaceae, originating from the islands of Southeast Asia</string>
+        <string name="salak_nama">Salak fruit </string>
+        <string name="siam_deskripsi">Salak is a type of palm with fruit that is commonly eaten. It is also known as salak</string>
+        <string name="semangka_nama">Watermelon</string>
+        <string name="semangka_deskripsi">Watermelon is a vine native to the semi-desert areas of southern Africa</string>
+
+
+        //vegetable data
+        <string name="daun_nama">Leaf Vegetable</string>
+        <string name="daun_deskripsi">Good quality leaf vegetables are characterized by intact leaves, no rot and no holes from pest bites</string>
+        <string name="batang_nama">Stem Vegetable</string>
+        <string name="batang_deskripsi">Stem vegetables are part of plants consisting of books and segments</string>
+        <string name="buahh_nama">Fruit Vegetable</string>
+        <string name="buahh_deskripsi">Good quality fruit vegetables have the following characteristics: Adequate age level (not too young and not too mature)</string>
+        <string name="jamur_nama">Mushroom Vegetable</string>
+        <string name="jamur_deskripsi">A good quality mushroom vegetable has the following characteristics: Mushroom vegetables are still young to old enough</string>
+        <string name="umbi_nama">Tubers </string>
+        <string name="umbi_deskripsi">A good quality tuber has the following characteristics: Tubers are old enough</string>
+        <string name="polong_nama">vegetable peas</string>
+        <string name="polong_deskripsi">Good quality legumes have the following characteristics: Vegetables are not old, the skin of the fruit is still straight and the seed lumps are not visible</string>
+
+        //food data
+        <string name="rendang_nama">Rendang</string>
+        <string name="rendang_deskripsi">Rendang or rendang is an authentic Indonesian meat dish originating from Minangkabau</string>
+        <string name="NasiGoreng_nama">Fried Rice</string>
+        <string name="NasiGoreng_deskripsi">Fried rice is a food in the form of fried rice and stirred in cooking oil, margarine, or butter</string>
+        <string name="MieAyam_nama">Chicken Noodle</string>
+        <string name="MieAyam_deskripsi">Mi ayam, mie ayam or bakmi ayam is an Indonesian dish made from yellow wheat noodles seasoned with chicken meat which is usually diced</string>
+        <string name="Angkringan_nama">Angkringan</string>
+        <string name="Angkringan_deskripsi">Angkringan is a wheelbarrow that sells various kinds of food and beverages on the roadside in Central Java, Yogyakarta and East Java"</string>
+        <string name="Sate_nama">Sate </string>
+        <string name="Sate_deskripsi">Sate or satai is a food made from meat that is cut into small pieces and pierced in such a way with a stick of coconut or bamboo leaf bone, then grilled using wood charcoal coals</string>
+        <string name="Bakso_nama">Meatball</string>
+        <string name="Bakso_deskripsi">Meatballs or meatballs are a type of meat ball commonly found in <Indonesia></Indonesia></string> dishes
+
+
+    </resources>

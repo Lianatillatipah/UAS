@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Buah Sayuran Dan Makanan</string>
+    <string name="Judul">Buah dan Sayuran dan Makanan</string>
+    <string name="pilih">(Pilih gambar untuk membuka galeri)</string>
+    <string name="klik2">klik profile untuk melihat biodata pembuat</string>
+    <string name="daftar">list Ras Buah</string>
+    <string name="go_back">Kembali</string>
+    <string name="Buah">Buah</string>
+    <string name="Sayuran">Sayuran</string>
+    <string name="Makanan">Makanan</string>
+    <string name="kucing_list_title">Daftar Ras Kucing</string>
+    <string name="anjing_list_title">Daftar Ras Anjing</string>
+    <string name="buaya_list_title">Daftar Ras Makanan</string>
+    <string name="biodata">Biodata Pembuat</string>
+    <string name="nama">nama</string>
+    <string name="kelas">kelas</string>
+    <string name="prodi">prodi</string>
+    <string name="hobby">nonton  indian tutorial</string>
+
+    //data buah
+    <string name="naga_nama">Buah Naga</string>
+    <string name="naga_deskripsi">Kualitas sayuran daun yang baik memiliki ciri-ciri bagian daun utuh, tidak membusuk dan tidak berlubang bekas gigitan hama</string>
+    <string name="mangga_nama">Buah Mangga </string>
+    <string name="mangga_deskripsi">Mangga atau mempelam adalah nama sejenis buah, demikian pula nama pohonnya</string>
+    <string name="melon_nama">Birmani</string>
+    <string name="melon_deskripsi">Melon merupakan nama buah sekaligus tanaman yang menghasilkannya yang termasuk dalam suku labu-labuan atau Cucurbitaceae</string>
+    <string name="rambutan_nama">Buah Rambutan</string>
+    <string name="rambutan_deskripsi">Rambutan adalah tanaman tropis yang tergolong ke dalam suku lerak-lerakan atau Sapindaceae, berasal dari daerah kepulauan di Asia Tenggara</string>
+    <string name="salak_nama">Buah Salak </string>
+    <string name="siam_deskripsi">Salak adalah sejenis palma dengan buah yang biasa dimakan. Ia dikenal juga sebagai salak</string>
+    <string name="semangka_nama">Buah Semangka</string>
+    <string name="semangka_deskripsi">Semangka adalah tanaman merambat yang berasal dari daerah setengah gurun di Afrika bagian selatan</string>
+
+
+    //data sayuran
+    <string name="daun_nama">Sayuran Daun</string>
+    <string name="daun_deskripsi">Kualitas sayuran daun yang baik memiliki ciri-ciri bagian daun utuh, tidak membusuk dan tidak berlubang bekas gigitan hama</string>
+    <string name="batang_nama">Sayuran Batang</string>
+    <string name="batang_deskripsi">Sayuran batang merupakan bagian dari tumbuhan yang terdiri dari buku dan ruas</string>
+    <string name="buahh_nama">Sayuran Buah</string>
+    <string name="buahh_deskripsi">Kualitas sayuran buah yang baik memiliki ciri-ciri :Tingkat umur cukup (tidak terlalu muda dan tidak terlalu dewasa)</string>
+    <string name="jamur_nama">Sayuran Jamur</string>
+    <string name="jamur_deskripsi">Kualitas sayuran jamur yang baik memiliki ciri-ciri :Sayuran jamur masih muda hingga cukup umur</string>
+    <string name="umbi_nama">Sayuran Umbi </string>
+    <string name="umbi_deskripsi">Kualitas sayuran umbi lapis yang baik memiliki ciri-ciri :Umbi lapis sudah cukup umur</string>
+    <string name="polong_nama">sayuran polong</string>
+    <string name="polong_deskripsi">Kualitas sayuran polong yang baik memiliki ciri-ciri : Sayuran tidak tua, kulit buah masih lurus dan benjolan biji belum tampak</string>
+
+    //data makanan
+    <string name="rendang_nama">Rendang</string>
+    <string name="rendang_deskripsi">Rendang atau randang adalah masakan daging asli Indonesia yang berasal dari Minangkabau</string>
+    <string name="NasiGoreng_nama">Nasi Goreng</string>
+    <string name="NasiGoreng_deskripsi">Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng, margarin, atau mentega</string>
+    <string name="MieAyam_nama">Mie Ayam</string>
+    <string name="MieAyam_deskripsi">Mi ayam, mie ayam atau bakmi ayam adalah hidangan Indonesia yang terbuat dari mie gandum kuning yang dibumbui dengan daging ayam yang biasanya dipotong dadu</string>
+    <string name="Angkringan_nama">Angkringan</string>
+    <string name="Angkringan_deskripsi">Angkringan adalah sebuah gerobak dorong untuk menjual berbagai macam makanan dan minuman di pinggir jalan di Jawa Tengah, Yogyakarta, dan Jawa Timur"</string>
+    <string name="Sate_nama">Sate </string>
+    <string name="Sate_deskripsi">Sate atau satai adalah makanan yang terbuat dari daging yang dipotong kecil-kecil dan ditusuk sedemikian rupa dengan tusukan lidi tulang daun kelapa atau bambu, kemudian dipanggang menggunakan bara arang kayu</string>
+    <string name="Bakso_nama">Bakso</string>
+    <string name="Bakso_deskripsi">Bakso atau baso adalah jenis bola daging yang lazim ditemukan pada masakan <Indonesia></Indonesia></string>
+
+
+</resources>
